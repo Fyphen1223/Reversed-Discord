@@ -22,3 +22,7 @@ Payload:
 ```
 
 hCapthca Site ID: 4c672d35-0701-42b2-88c3-78380b0db560
+
+https://github.com/avengy/hcaptcha-bypass-discord/blob/main/hcapbypass.py
+
+https://hcaptcha.com/checksiteconfig?host=discord.com&sitekey=4c672d35-0701-42b2-88c3-78380b0db560&sc=1&swa=1
