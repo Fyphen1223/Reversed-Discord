@@ -3,6 +3,8 @@ Reverse-engineering of Discord
 
 ## Discord Account Registration
 
+Method: POST
+
 Endpoint: https://discord.com/api/v9/auth/register
 
 Payload: 
@@ -20,6 +22,8 @@ Payload:
   "promotional_email_opt_in":true
 }
 ```
+
+This will return site ID and more and more.
 
 hCapthca Site ID: 4c672d35-0701-42b2-88c3-78380b0db560
 
